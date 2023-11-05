@@ -29,7 +29,7 @@ const Summary = () => {
             placeholder='Paste or Enter url'
             value={article.url}
             onChange={(e) => setArticle({
-              ...prevArticle, //remember the previous article
+              ...article, //the previous article
               url: e.target.value //update the url
             })}
             required
