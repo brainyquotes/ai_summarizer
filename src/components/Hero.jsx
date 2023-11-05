@@ -18,8 +18,10 @@ const Hero = () => {
                 <span className='orange_gradient'>OpenAI GPT-4</span>
             </h1>
         <h2 className="desc">
-            Summarise and Simplify your reading with this Open-source article summarizer that transforms 
-            lengthy articles into clear and concise summaries
+            Summarise and Simplify news, article or contents from a URL
+            with this Open-source ai summarizer. You may not need to summarize a web page with
+            an article, You can summarize a url and it tells what the page or website is all about.
+            Give it a try!
 
         </h2>
     </header>
